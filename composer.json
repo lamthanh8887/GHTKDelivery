@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/GHTLDelivery",
+  "version": "1.0.0",
+  "description": "Giao Hang Tiet Kiem",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.7"
+  },
+  "extra": {
+    "code": "GHTKDelivery"
+  }
+}
