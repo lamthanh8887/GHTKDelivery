@@ -1,0 +1,15 @@
+ghtk.admin.order.print_invoice: "In đơn hàng GHTK"
+admin.product.weight: "Khối lượng (g)"
+
+ghtk.name: Giao hàng tiet kiem
+ghtk.header: Cài đặt
+ghtk.utility_name: Tên tiện ích
+ghtk.require: Bắt buộc
+ghtk.sandbox_mode: Sandbox mode
+ghtk.token: Token
+ghtk.webhook_hash: Webhook hash
+
+#Event
+ghtk.event.error_shopping_edit: Không thể tính phí giao hàng. Xin vui lòng liên hệ %shopname%
+ghtk.event.error_create_order: Có lỗi xảy ra khi tạo đơn hàng với GHTK. Xin vui lòng thử lại sau
+ghtk.event.remove_order_success: Huỷ đơn hàng thành công
